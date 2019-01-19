@@ -1,0 +1,14 @@
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\bin\Debug\CodeFirstNewDatabaseSample.exe.config
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\bin\Debug\CodeFirstNewDatabaseSample.exe
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\bin\Debug\CodeFirstNewDatabaseSample.pdb
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\bin\Debug\EntityFramework.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\bin\Debug\EntityFramework.xml
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\obj\Debug\Boke.csprojAssemblyReference.cache
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.Migrations.InitialCreate.resources
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\obj\Debug\Boke.csproj.GenerateResource.cache
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\obj\Debug\Boke.csproj.CoreCompileInputs.cache
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\obj\Debug\Boke.csproj.CopyComplete
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.exe
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.pdb

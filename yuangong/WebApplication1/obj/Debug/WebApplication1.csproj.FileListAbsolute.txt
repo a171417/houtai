@@ -1,0 +1,262 @@
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\WebGrease.dll
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\EntityFramework.dll
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\EntityFramework.xml
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\nle\newGithub-master\后台开始\WebApplication1\WebApplication1\bin\zh-Hans\EntityFramework.resources.dll
+F:\后台开始\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+F:\后台开始\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+F:\后台开始\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\后台开始\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\后台开始\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\后台开始\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\后台开始\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\后台开始\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\后台开始\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+F:\后台开始\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+F:\后台开始\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+F:\后台开始\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+F:\后台开始\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+F:\后台开始\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+F:\后台开始\WebApplication1\WebApplication1\bin\WebApplication1.dll
+F:\后台开始\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+F:\后台开始\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+F:\后台开始\WebApplication1\WebApplication1\bin\EntityFramework.dll
+F:\后台开始\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+F:\后台开始\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+F:\后台开始\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+F:\后台开始\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\后台开始\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\后台开始\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+F:\后台开始\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+F:\后台开始\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+F:\后台开始\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\后台开始\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+F:\后台开始\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+F:\后台开始\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+F:\后台开始\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+F:\后台开始\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+F:\后台开始\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+F:\后台开始\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+F:\后台开始\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+F:\后台开始\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+F:\后台开始\WebApplication1\WebApplication1\bin\WebGrease.dll
+F:\后台开始\WebApplication1\WebApplication1\bin\EntityFramework.xml
+F:\后台开始\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+F:\后台开始\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+F:\后台开始\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\后台开始\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+F:\后台开始\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+F:\后台开始\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+F:\后台开始\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\后台开始\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+F:\后台开始\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+F:\后台开始\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+F:\后台开始\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+F:\后台开始\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+F:\后台开始\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+F:\后台开始\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+F:\后台开始\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+F:\后台开始\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+F:\后台开始\WebApplication1\WebApplication1\bin\zh-Hans\EntityFramework.resources.dll
+F:\后台开始\WebApplication1\WebApplication1\bin\zh-Hans\System.Web.Helpers.resources.dll
+F:\后台开始\WebApplication1\WebApplication1\bin\zh-Hans\System.Web.Mvc.resources.dll
+F:\后台开始\WebApplication1\WebApplication1\bin\zh-Hans\System.Web.Optimization.resources.dll
+F:\后台开始\WebApplication1\WebApplication1\bin\zh-Hans\System.Web.Razor.resources.dll
+F:\后台开始\WebApplication1\WebApplication1\bin\zh-Hans\System.Web.WebPages.resources.dll
+F:\后台开始\WebApplication1\WebApplication1\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+F:\后台开始\WebApplication1\WebApplication1\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+F:\后台开始\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+F:\后台开始\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+F:\后台开始\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\WebApplication1.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\EntityFramework.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\WebGrease.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\EntityFramework.xml
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\zh-Hans\EntityFramework.resources.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+E:\乱乱\乱乱1\Desktop\新建文件夹 (2)\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

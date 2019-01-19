@@ -1,0 +1,5 @@
+D:\nle\newGithub-master\后台开始\WebApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\nle\newGithub-master\后台开始\WebApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\nle\newGithub-master\后台开始\WebApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\nle\newGithub-master\后台开始\WebApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\nle\newGithub-master\后台开始\WebApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

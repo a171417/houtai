@@ -1,0 +1,22 @@
+D:\webSite\45MVC\CodeFirstNewDatabaseSample\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\webSite\45MVC\CodeFirstNewDatabaseSample\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\webSite\45MVC\CodeFirstNewDatabaseSample\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\webSite\45MVC\CodeFirstNewDatabaseSample\ConsoleApplication1\bin\Debug\EntityFramework.dll
+D:\webSite\45MVC\CodeFirstNewDatabaseSample\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+D:\webSite\45MVC\CodeFirstNewDatabaseSample\ConsoleApplication1\bin\Debug\EntityFramework.xml
+D:\webSite\45MVC\CodeFirstNewDatabaseSample\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+D:\webSite\45MVC\CodeFirstNewDatabaseSample\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\webSite\45MVC\CodeFirstNewDatabaseSample\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\webSite\45MVC\CodeFirstNewDatabaseSample\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\CodeFirstNewDatabaseSample\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\CodeFirstNewDatabaseSample\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\CodeFirstNewDatabaseSample\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\CodeFirstNewDatabaseSample\ConsoleApplication1\bin\Debug\EntityFramework.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\CodeFirstNewDatabaseSample\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\CodeFirstNewDatabaseSample\ConsoleApplication1\bin\Debug\EntityFramework.xml
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\CodeFirstNewDatabaseSample\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\CodeFirstNewDatabaseSample\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\CodeFirstNewDatabaseSample\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\CodeFirstNewDatabaseSample\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CopyComplete
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\CodeFirstNewDatabaseSample\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\猪猪\Documents\Tencent Files\1714178382\FileRecv\CodeFirstNewDatabaseSample\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
